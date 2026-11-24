@@ -1,6 +1,6 @@
 # PayFlow – Digital Payments Insights (Power BI)
 
-![PayFlow Dashboard](assets/dashboard_preview.png)
+![PayFlow Dashboard](dashboard_preview.png)
 
 An interactive Power BI dashboard that analyses **150,000 digital payment transactions** from **8,000 users across 14 Indian states** (calendar year 2025).
 The brand "PayFlow" and the data are fictional. The dataset is generated with a seeded Python script, so anyone can reproduce it exactly.
